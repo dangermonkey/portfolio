@@ -1,0 +1,39 @@
+* {
+  font-family: 'Montserrat', sans-serif;
+}
+
+hr {
+  color: #56A4C3;
+  border: 3px solid;
+}
+
+.text-light {
+  font-weight: 300;
+}
+
+.text-bold {
+  font-weight: 700;
+}
+
+.about {
+  font-weight: 500;
+  color: #356476;
+}
+
+.portfolio {
+  color: #586E76;
+}
+
+.portfolio img {
+  border-radius: 14px;
+}
+
+footer {
+  background-color: #6DCFF6;
+  color: #586E76;
+  height: 100px;
+}
+
+footer p {
+  padding: 10px;
+}
